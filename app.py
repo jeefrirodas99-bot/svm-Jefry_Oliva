@@ -6,8 +6,8 @@ import streamlit as st
 from groq import Groq
 
 
-st.set_page_config(page_title="Riesgo actuarial - Jefry Oliva", layout="centered")
-st.title("Predicción de riesgo actuarial")
+st.set_page_config(page_title="Riesgo actuarial", layout="centered")
+st.title("Predicción de riesgo actuarial - Jefry Oliva")
 
 
 @st.cache_resource
